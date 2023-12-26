@@ -1,5 +1,7 @@
 build/
 dist/
 *.spec
+*.form
 __pycache__/
 .vscode/
+.*
