@@ -4,4 +4,4 @@ dist/
 *.form
 __pycache__/
 .vscode/
-.*
+.DS*
